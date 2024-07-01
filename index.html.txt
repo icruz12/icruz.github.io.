@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+<title> My personal introduction
+</title>
+<style>
+<h1> My name is ibeth 
+</h1> 
+<p> I am in a web development class. I enjoy playing with my dog. If im not doing homework, I am watching anime. 
+</p>
+</body>
+</style>
+body{ 
+background-color:#281f3d;
+}
+h1{ 
+color:#c54070;
+}
+p{
+color:#8d8ea9;
+}
+
+</head>
+
+
+
+
+
+</html>
